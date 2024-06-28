@@ -1,3 +1,6 @@
+## Install Python in Termux:
+# pkg install python
+
 # Anti-scan :-
 "THIS IS THE PROJECT AS A FRESHER IN PYTHON. USING AUTOMATIONS TOOL AND FILE HANDLING AND OOP IN PYTHON"
 # Read before using this tool 
