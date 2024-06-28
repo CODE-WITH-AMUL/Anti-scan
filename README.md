@@ -1,6 +1,26 @@
-## Install Python in Termux:
-# pkg install python
+<h1 align="center">
+ UNWANTED FILE REMOVING TOOL
+</h1>
+</div>
+<p align="center">
+  MADE WITH BY <a href="https://github.com/CODE-WITH-MASKMAN">𝙎𝙐𝙂𝘼𝙍 𝘿𝘼𝘿𝘿𝙔 愛</a>
+</p>
+<p align="center">
+# Install Python in Termux
+``pkg install python``
 
+
+# COMMAND 🌚
+```
+rm -rf Anti-scan
+
+git clone https://github.com/CODE-WITH-MASKMAN/Anti-scan.git
+
+cd Anti-scan
+
+python scan.py
+```
+#--------------------[NOTE]---------------#
 # Anti-scan :-
 "THIS IS THE PROJECT AS A FRESHER IN PYTHON. USING AUTOMATIONS TOOL AND FILE HANDLING AND OOP IN PYTHON"
 # Read before using this tool 
